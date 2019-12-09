@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nusszerpatrik/CLionProjects/CPPO/CPPO.cpp
+iostream
+-
+functional
+-
+map
+-
+iterator
+-
+any
+-
+string
+-
+vector
+-
+CPPO.h
+/Users/nusszerpatrik/CLionProjects/CPPO/CPPO.h
+
+/Users/nusszerpatrik/CLionProjects/CPPO/CPPO.h
+iostream
+-
+functional
+-
+map
+-
+iterator
+-
+any
+-
+string
+-
+vector
+-
+
